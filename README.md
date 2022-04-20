@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=김석진의 공부 %20Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=돌짱 김석진 %20Kim&fontSize=90" />
 
 
 ### 🧔김석진이란?
