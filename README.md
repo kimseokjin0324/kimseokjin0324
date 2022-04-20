@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=김석진의 공부 %20Kim&fontSize=90" />
+
+
 ### 🧔김석진이란?
 > ~~명지대학교 졸업(2016.02~2022.02)...~~   
 > Java 백엔드 개발자가 되기위해서 뽀짝뽀짝 노력중   
