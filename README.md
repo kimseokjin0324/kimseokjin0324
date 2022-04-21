@@ -21,6 +21,7 @@
 ### 🧰개발툴🧰
 <img src="https://img.shields.io/badge/Eclipse-525C86?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>   
   
-  
-  
+ <img src="http://mazandi.herokuapp.com/api?handle={rlatjrwls}&theme=warm"/>  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjrwls)](https://solved.ac/rlatjrwls)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseokjin0324)](https://github.com/kimseokjin0324/github-readme-stats)
