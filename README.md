@@ -10,8 +10,8 @@
 > **느린거북이 처럼 하나하나 파해쳐 나가는중**    
 
 
-<a href="https://velog.io/@dolljang"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
-
+<a href="https://velog.io/@dolljang"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dolljang)](https://velog.io/@dolljang)
 
 ###  ✏️공부중 & 할 수 있는것✏️
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
@@ -20,10 +20,11 @@
 
 ### 🧰개발툴🧰
 <img src="https://img.shields.io/badge/Eclipse-525C86?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>   
+
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseokjin0324)](https://github.com/kimseokjin0324/github-readme-stats)     
 <img src="http://mazandi.herokuapp.com/api?handle={rlatjrwls}&theme=warm"/>   
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjrwls)](https://solved.ac/rlatjrwls)     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseokjin0324)]
-(https://github.com/kimseokjin0324/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjrwls)](https://solved.ac/rlatjrwls)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseokjin0324)]   
+
